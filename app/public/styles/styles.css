@@ -1,0 +1,17 @@
+body {
+    /* background-color: slategray; */
+    background-image: url("../images/concrete_seamless.png")
+}
+
+#header {
+    color: red;
+}
+
+#col1 {
+    color: green;
+    border: 1px solid black;
+}
+
+table,td {
+    border: 1px solid red;
+}
